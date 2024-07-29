@@ -1,5 +1,5 @@
 {
-  "name": "log-cli",
+  "name": "log-cli-by-robin",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "RobinHyeBin <robin@nextunicorn.kr>",
@@ -18,6 +18,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HyeBinYang/editor_component_deploy_test.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "test": "node ./__tests__/log-cli.test.js"
