@@ -1,6 +1,5 @@
 {
   "name": "@HyeBinYang/editor_component_deploy_test",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
@@ -12,5 +11,6 @@
   "devDependencies": {
     "eslint": "^9.8.0",
     "lerna": "^8.1.7"
-  }
+  },
+  "version": "0.0.0"
 }
