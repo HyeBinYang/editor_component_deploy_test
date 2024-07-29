@@ -1,6 +1,6 @@
 {
-  "name": "log-cli-by-robin",
-  "version": "1.0.0",
+  "name": "@HyeBinYang/log-cli-by-robin",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "RobinHyeBin <robin@nextunicorn.kr>",
   "homepage": "https://github.com/HyeBinYang/editor_component_deploy_test#readme",
@@ -30,5 +30,6 @@
   },
   "dependencies": {
     "commander": "^12.1.0"
-  }
+  },
+  "gitHead": "a74420da2fc674a528ec6b041280c41209f278f7"
 }
